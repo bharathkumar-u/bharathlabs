@@ -6,7 +6,7 @@ image_resource:
 
 run:
   path: echo
-  args: [hello-Jaswik]
+  args: [bharathlabs]
 
 resources:
 - name: bharathlabs
