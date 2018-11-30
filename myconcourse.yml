@@ -9,7 +9,7 @@ run:
   args: [hello-Jaswik]
 
 resources:
-- name: resource-tutorial
+- name: bharathlabs
   type: git
   source:
     uri: https://github.com/bharathkumar-u/bharathlabs
